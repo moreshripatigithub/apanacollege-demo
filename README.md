@@ -1,5 +1,5 @@
 # apanacollege-demo
 this is my first repos
 <br>
-Author = Shripati (apanacollege)
+Author = Shripati (apanacollege is so beatiful)
 
